@@ -1,5 +1,5 @@
-% Nayiri Krzysztofowicz
-% Spring 2019
+% Abdias Saint-Louis & Alan Ataide Coimbra Souza
+% UAM PDI Project 2022
 % main program to extract notes from audio file
 % input file: FurElise_Slow.mp3
 % relies on plotsound.m file for one (optional) function
