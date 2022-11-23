@@ -1,3 +1,4 @@
 # Music Note Extraction 
 ### Using Digital Signal Processing
-Watch demo video here: https://youtu.be/m7FuJaxWD3A
+% Abdias Saint-Louis & Alan Ataide Coimbra Souza
+% UAM PDI Project 2022
